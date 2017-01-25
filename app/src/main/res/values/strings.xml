@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">FanDuel Game</string>
+    <string name="score">Your score</string>
+    <string name="fppg">fppg?</string>
+    <string name="header">Who has the higher FPPG ?</string>
+    <string name="play_again">Play again :)</string>
+    <string name="exit">Exit</string>
+    <string name="you_won">You won!</string>
+    <string name="you_lose">You lose!</string>
+    <string name="internet">No internet connection detected. Please check your network on your device.</string>
+</resources>

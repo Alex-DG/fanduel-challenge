@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- FanDuel Blue -->
+    <color name="colorPrimary">#1492FF</color>
+
+    <!-- FanDuel Black -->
+    <color name="colorPrimaryDark">#333333</color>
+
+    <!-- FanDuel Green -->
+    <color name="colorAccent">#35B961</color>
+
+</resources>
