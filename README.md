@@ -1,6 +1,6 @@
 # fanduel-challenge
 
-FanDuel guess game :
+FanDuel guessing game :
 - Network : Retrofit 2 and OkHttp 3
 - Binding view : ButterKnife
 - Player image : Picasso
