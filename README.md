@@ -1,4 +1,4 @@
-# fanduel-challenge
+# guessing-game-nba
 
 FanDuel guessing game :
 - Network : Retrofit 2 and OkHttp 3
@@ -12,4 +12,4 @@ will be a red logo.
 - To play again click on the screen and the game will be updated with new players.
 - After 10 wins the game is finished and the result screen will shown on your screen.
 
-![Alt text](https://github.com/Alex-DG/fanduel-challenge/blob/master/screenshots/home.png?raw=true)
+![Alt text](https://github.com/Alex-DG/guessing-game-nba/blob/master/home.png?raw=true)
