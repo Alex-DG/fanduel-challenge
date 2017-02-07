@@ -4,7 +4,7 @@ FanDuel guessing game :
 - Network : Retrofit 2 and OkHttp 3
 - Binding view : ButterKnife
 - Player image : Picasso
-- Tests : JunitTest / Robolectric / Mockito (I never used mockito before I wanted to try it I wrote some comments on the MockRetrofitTest class)
+- Tests : JunitTest / Robolectric / Mockito (I never used mockito before it was a test!)
 
 How ?
 - Select the player with the higher FPPG score. If you won you will see a FanDuel green logo on the screen, if not it 
